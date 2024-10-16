@@ -1,0 +1,4 @@
+/Users/hogni.thor/home/micronations/build/CMakeFiles/mn_grpc_client.dir
+/Users/hogni.thor/home/micronations/build/CMakeFiles/micronations.dir
+/Users/hogni.thor/home/micronations/build/CMakeFiles/edit_cache.dir
+/Users/hogni.thor/home/micronations/build/CMakeFiles/rebuild_cache.dir

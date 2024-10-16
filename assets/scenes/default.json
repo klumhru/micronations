@@ -1,0 +1,16 @@
+{
+    "name": "default",
+    "theme": "default",
+    "width": 5,
+    "height": 8,
+    "tiles": [
+        {"sprite": "grass.png"}, {"sprite": "grass.png"}, {"sprite": "grass.png"}, {"sprite": "grass.png"}, {"sprite": "grass.png"},
+        {"sprite": "grass.png"}, {"sprite": "grass.png"}, {"sprite": "grass.png"}, {"sprite": "grass.png"}, {"sprite": "grass.png"},
+        {"sprite": "grass.png"}, {"sprite": "water.png"}, {"sprite": "grass.png"}, {"sprite": "water.png"}, {"sprite": "grass.png"},
+        {"sprite": "grass.png"}, {"sprite": "grass.png"}, {"sprite": "grass.png"}, {"sprite": "grass.png"}, {"sprite": "grass.png"},
+        {"sprite": "grass.png"}, {"sprite": "grass.png"}, {"sprite": "grass.png"}, {"sprite": "grass.png"}, {"sprite": "grass.png"},
+        {"sprite": "grass.png"}, {"sprite": "water.png"}, {"sprite": "grass.png"}, {"sprite": "water.png"}, {"sprite": "grass.png"},
+        {"sprite": "grass.png"}, {"sprite": "grass.png"}, {"sprite": "grass.png"}, {"sprite": "grass.png"}, {"sprite": "grass.png"},
+        {"sprite": "grass.png"}, {"sprite": "grass.png"}, {"sprite": "grass.png"}, {"sprite": "grass.png"}, {"sprite": "grass.png"}
+    ]
+}

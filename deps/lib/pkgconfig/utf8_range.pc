@@ -1,0 +1,11 @@
+prefix=/Users/hogni.thor/home/micronations/SDL
+exec_prefix=/Users/hogni.thor/home/micronations/SDL
+libdir=/Users/hogni.thor/home/micronations/SDL/lib
+includedir=/Users/hogni.thor/home/micronations/SDL/include
+
+Name: UTF8 Range
+Description: Google's UTF8 Library
+Version: 1.0
+Requires: absl_strings
+Libs: -L${libdir} -lutf8_validity -lutf8_range 
+Cflags: -I${includedir}

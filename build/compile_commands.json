@@ -1,0 +1,146 @@
+[
+{
+  "directory": "/Users/hogni.thor/home/micronations/build",
+  "command": "/usr/bin/clang++ -DAUTO_INITIALIZE_EASYLOGGINGPP=ON -DCARES_STATICLIB -I/Users/hogni.thor/home/micronations/src -isystem /Users/hogni.thor/home/micronations/deps/include -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk -mmacosx-version-min=14.7 -o CMakeFiles/micronations.dir/main.cpp.o -c /Users/hogni.thor/home/micronations/main.cpp",
+  "file": "/Users/hogni.thor/home/micronations/main.cpp",
+  "output": "CMakeFiles/micronations.dir/main.cpp.o"
+},
+{
+  "directory": "/Users/hogni.thor/home/micronations/build",
+  "command": "/usr/bin/clang++ -DAUTO_INITIALIZE_EASYLOGGINGPP=ON -DCARES_STATICLIB -I/Users/hogni.thor/home/micronations/src -isystem /Users/hogni.thor/home/micronations/deps/include -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk -mmacosx-version-min=14.7 -o CMakeFiles/micronations.dir/src/app/app.cpp.o -c /Users/hogni.thor/home/micronations/src/app/app.cpp",
+  "file": "/Users/hogni.thor/home/micronations/src/app/app.cpp",
+  "output": "CMakeFiles/micronations.dir/src/app/app.cpp.o"
+},
+{
+  "directory": "/Users/hogni.thor/home/micronations/build",
+  "command": "/usr/bin/clang++ -DAUTO_INITIALIZE_EASYLOGGINGPP=ON -DCARES_STATICLIB -I/Users/hogni.thor/home/micronations/src -isystem /Users/hogni.thor/home/micronations/deps/include -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk -mmacosx-version-min=14.7 -o CMakeFiles/micronations.dir/src/app/app_oncleanup.cpp.o -c /Users/hogni.thor/home/micronations/src/app/app_oncleanup.cpp",
+  "file": "/Users/hogni.thor/home/micronations/src/app/app_oncleanup.cpp",
+  "output": "CMakeFiles/micronations.dir/src/app/app_oncleanup.cpp.o"
+},
+{
+  "directory": "/Users/hogni.thor/home/micronations/build",
+  "command": "/usr/bin/clang++ -DAUTO_INITIALIZE_EASYLOGGINGPP=ON -DCARES_STATICLIB -I/Users/hogni.thor/home/micronations/src -isystem /Users/hogni.thor/home/micronations/deps/include -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk -mmacosx-version-min=14.7 -o CMakeFiles/micronations.dir/src/app/app_onevent.cpp.o -c /Users/hogni.thor/home/micronations/src/app/app_onevent.cpp",
+  "file": "/Users/hogni.thor/home/micronations/src/app/app_onevent.cpp",
+  "output": "CMakeFiles/micronations.dir/src/app/app_onevent.cpp.o"
+},
+{
+  "directory": "/Users/hogni.thor/home/micronations/build",
+  "command": "/usr/bin/clang++ -DAUTO_INITIALIZE_EASYLOGGINGPP=ON -DCARES_STATICLIB -I/Users/hogni.thor/home/micronations/src -isystem /Users/hogni.thor/home/micronations/deps/include -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk -mmacosx-version-min=14.7 -o CMakeFiles/micronations.dir/src/app/app_oninit.cpp.o -c /Users/hogni.thor/home/micronations/src/app/app_oninit.cpp",
+  "file": "/Users/hogni.thor/home/micronations/src/app/app_oninit.cpp",
+  "output": "CMakeFiles/micronations.dir/src/app/app_oninit.cpp.o"
+},
+{
+  "directory": "/Users/hogni.thor/home/micronations/build",
+  "command": "/usr/bin/clang++ -DAUTO_INITIALIZE_EASYLOGGINGPP=ON -DCARES_STATICLIB -I/Users/hogni.thor/home/micronations/src -isystem /Users/hogni.thor/home/micronations/deps/include -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk -mmacosx-version-min=14.7 -o CMakeFiles/micronations.dir/src/app/app_onloop.cpp.o -c /Users/hogni.thor/home/micronations/src/app/app_onloop.cpp",
+  "file": "/Users/hogni.thor/home/micronations/src/app/app_onloop.cpp",
+  "output": "CMakeFiles/micronations.dir/src/app/app_onloop.cpp.o"
+},
+{
+  "directory": "/Users/hogni.thor/home/micronations/build",
+  "command": "/usr/bin/clang++ -DAUTO_INITIALIZE_EASYLOGGINGPP=ON -DCARES_STATICLIB -I/Users/hogni.thor/home/micronations/src -isystem /Users/hogni.thor/home/micronations/deps/include -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk -mmacosx-version-min=14.7 -o CMakeFiles/micronations.dir/src/app/app_onrender.cpp.o -c /Users/hogni.thor/home/micronations/src/app/app_onrender.cpp",
+  "file": "/Users/hogni.thor/home/micronations/src/app/app_onrender.cpp",
+  "output": "CMakeFiles/micronations.dir/src/app/app_onrender.cpp.o"
+},
+{
+  "directory": "/Users/hogni.thor/home/micronations/build",
+  "command": "/usr/bin/clang++ -DAUTO_INITIALIZE_EASYLOGGINGPP=ON -DCARES_STATICLIB -I/Users/hogni.thor/home/micronations/src -isystem /Users/hogni.thor/home/micronations/deps/include -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk -mmacosx-version-min=14.7 -o CMakeFiles/micronations.dir/src/app/state.cpp.o -c /Users/hogni.thor/home/micronations/src/app/state.cpp",
+  "file": "/Users/hogni.thor/home/micronations/src/app/state.cpp",
+  "output": "CMakeFiles/micronations.dir/src/app/state.cpp.o"
+},
+{
+  "directory": "/Users/hogni.thor/home/micronations/build",
+  "command": "/usr/bin/clang++ -DAUTO_INITIALIZE_EASYLOGGINGPP=ON -DCARES_STATICLIB -I/Users/hogni.thor/home/micronations/src -isystem /Users/hogni.thor/home/micronations/deps/include -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk -mmacosx-version-min=14.7 -o CMakeFiles/micronations.dir/src/app/state_manager.cpp.o -c /Users/hogni.thor/home/micronations/src/app/state_manager.cpp",
+  "file": "/Users/hogni.thor/home/micronations/src/app/state_manager.cpp",
+  "output": "CMakeFiles/micronations.dir/src/app/state_manager.cpp.o"
+},
+{
+  "directory": "/Users/hogni.thor/home/micronations/build",
+  "command": "/usr/bin/clang++ -DAUTO_INITIALIZE_EASYLOGGINGPP=ON -DCARES_STATICLIB -I/Users/hogni.thor/home/micronations/src -isystem /Users/hogni.thor/home/micronations/deps/include -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk -mmacosx-version-min=14.7 -o CMakeFiles/micronations.dir/src/assets/asset_manager.cpp.o -c /Users/hogni.thor/home/micronations/src/assets/asset_manager.cpp",
+  "file": "/Users/hogni.thor/home/micronations/src/assets/asset_manager.cpp",
+  "output": "CMakeFiles/micronations.dir/src/assets/asset_manager.cpp.o"
+},
+{
+  "directory": "/Users/hogni.thor/home/micronations/build",
+  "command": "/usr/bin/clang++ -DAUTO_INITIALIZE_EASYLOGGINGPP=ON -DCARES_STATICLIB -I/Users/hogni.thor/home/micronations/src -isystem /Users/hogni.thor/home/micronations/deps/include -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk -mmacosx-version-min=14.7 -o CMakeFiles/micronations.dir/src/assets/text_asset.cpp.o -c /Users/hogni.thor/home/micronations/src/assets/text_asset.cpp",
+  "file": "/Users/hogni.thor/home/micronations/src/assets/text_asset.cpp",
+  "output": "CMakeFiles/micronations.dir/src/assets/text_asset.cpp.o"
+},
+{
+  "directory": "/Users/hogni.thor/home/micronations/build",
+  "command": "/usr/bin/clang++ -DAUTO_INITIALIZE_EASYLOGGINGPP=ON -DCARES_STATICLIB -I/Users/hogni.thor/home/micronations/src -isystem /Users/hogni.thor/home/micronations/deps/include -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk -mmacosx-version-min=14.7 -o CMakeFiles/micronations.dir/src/assets/texture.cpp.o -c /Users/hogni.thor/home/micronations/src/assets/texture.cpp",
+  "file": "/Users/hogni.thor/home/micronations/src/assets/texture.cpp",
+  "output": "CMakeFiles/micronations.dir/src/assets/texture.cpp.o"
+},
+{
+  "directory": "/Users/hogni.thor/home/micronations/build",
+  "command": "/usr/bin/clang++ -DAUTO_INITIALIZE_EASYLOGGINGPP=ON -DCARES_STATICLIB -I/Users/hogni.thor/home/micronations/src -isystem /Users/hogni.thor/home/micronations/deps/include -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk -mmacosx-version-min=14.7 -o CMakeFiles/micronations.dir/src/data/id.pb.cc.o -c /Users/hogni.thor/home/micronations/src/data/id.pb.cc",
+  "file": "/Users/hogni.thor/home/micronations/src/data/id.pb.cc",
+  "output": "CMakeFiles/micronations.dir/src/data/id.pb.cc.o"
+},
+{
+  "directory": "/Users/hogni.thor/home/micronations/build",
+  "command": "/usr/bin/clang++ -DAUTO_INITIALIZE_EASYLOGGINGPP=ON -DCARES_STATICLIB -I/Users/hogni.thor/home/micronations/src -isystem /Users/hogni.thor/home/micronations/deps/include -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk -mmacosx-version-min=14.7 -o CMakeFiles/micronations.dir/src/game/game_state.cpp.o -c /Users/hogni.thor/home/micronations/src/game/game_state.cpp",
+  "file": "/Users/hogni.thor/home/micronations/src/game/game_state.cpp",
+  "output": "CMakeFiles/micronations.dir/src/game/game_state.cpp.o"
+},
+{
+  "directory": "/Users/hogni.thor/home/micronations/build",
+  "command": "/usr/bin/clang++ -DAUTO_INITIALIZE_EASYLOGGINGPP=ON -DCARES_STATICLIB -I/Users/hogni.thor/home/micronations/src -isystem /Users/hogni.thor/home/micronations/deps/include -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk -mmacosx-version-min=14.7 -o CMakeFiles/micronations.dir/src/game/player.cpp.o -c /Users/hogni.thor/home/micronations/src/game/player.cpp",
+  "file": "/Users/hogni.thor/home/micronations/src/game/player.cpp",
+  "output": "CMakeFiles/micronations.dir/src/game/player.cpp.o"
+},
+{
+  "directory": "/Users/hogni.thor/home/micronations/build",
+  "command": "/usr/bin/clang++ -DAUTO_INITIALIZE_EASYLOGGINGPP=ON -DCARES_STATICLIB -I/Users/hogni.thor/home/micronations/src -isystem /Users/hogni.thor/home/micronations/deps/include -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk -mmacosx-version-min=14.7 -o CMakeFiles/micronations.dir/src/logging/easylogging++.cpp.o -c /Users/hogni.thor/home/micronations/src/logging/easylogging++.cpp",
+  "file": "/Users/hogni.thor/home/micronations/src/logging/easylogging++.cpp",
+  "output": "CMakeFiles/micronations.dir/src/logging/easylogging++.cpp.o"
+},
+{
+  "directory": "/Users/hogni.thor/home/micronations/build",
+  "command": "/usr/bin/clang++ -DAUTO_INITIALIZE_EASYLOGGINGPP=ON -DCARES_STATICLIB -I/Users/hogni.thor/home/micronations/src -isystem /Users/hogni.thor/home/micronations/deps/include -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk -mmacosx-version-min=14.7 -o CMakeFiles/micronations.dir/src/scene/board.cpp.o -c /Users/hogni.thor/home/micronations/src/scene/board.cpp",
+  "file": "/Users/hogni.thor/home/micronations/src/scene/board.cpp",
+  "output": "CMakeFiles/micronations.dir/src/scene/board.cpp.o"
+},
+{
+  "directory": "/Users/hogni.thor/home/micronations/build",
+  "command": "/usr/bin/clang++ -DAUTO_INITIALIZE_EASYLOGGINGPP=ON -DCARES_STATICLIB -I/Users/hogni.thor/home/micronations/src -isystem /Users/hogni.thor/home/micronations/deps/include -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk -mmacosx-version-min=14.7 -o CMakeFiles/micronations.dir/src/scene/node.cpp.o -c /Users/hogni.thor/home/micronations/src/scene/node.cpp",
+  "file": "/Users/hogni.thor/home/micronations/src/scene/node.cpp",
+  "output": "CMakeFiles/micronations.dir/src/scene/node.cpp.o"
+},
+{
+  "directory": "/Users/hogni.thor/home/micronations/build",
+  "command": "/usr/bin/clang++ -DAUTO_INITIALIZE_EASYLOGGINGPP=ON -DCARES_STATICLIB -I/Users/hogni.thor/home/micronations/src -isystem /Users/hogni.thor/home/micronations/deps/include -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk -mmacosx-version-min=14.7 -o CMakeFiles/micronations.dir/src/scene/piece.cpp.o -c /Users/hogni.thor/home/micronations/src/scene/piece.cpp",
+  "file": "/Users/hogni.thor/home/micronations/src/scene/piece.cpp",
+  "output": "CMakeFiles/micronations.dir/src/scene/piece.cpp.o"
+},
+{
+  "directory": "/Users/hogni.thor/home/micronations/build",
+  "command": "/usr/bin/clang++ -DAUTO_INITIALIZE_EASYLOGGINGPP=ON -DCARES_STATICLIB -I/Users/hogni.thor/home/micronations/src -isystem /Users/hogni.thor/home/micronations/deps/include -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk -mmacosx-version-min=14.7 -o CMakeFiles/micronations.dir/src/scene/scene.cpp.o -c /Users/hogni.thor/home/micronations/src/scene/scene.cpp",
+  "file": "/Users/hogni.thor/home/micronations/src/scene/scene.cpp",
+  "output": "CMakeFiles/micronations.dir/src/scene/scene.cpp.o"
+},
+{
+  "directory": "/Users/hogni.thor/home/micronations/build",
+  "command": "/usr/bin/clang++ -DAUTO_INITIALIZE_EASYLOGGINGPP=ON -DCARES_STATICLIB -I/Users/hogni.thor/home/micronations/src -isystem /Users/hogni.thor/home/micronations/deps/include -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk -mmacosx-version-min=14.7 -o CMakeFiles/micronations.dir/src/scene/scene_state.cpp.o -c /Users/hogni.thor/home/micronations/src/scene/scene_state.cpp",
+  "file": "/Users/hogni.thor/home/micronations/src/scene/scene_state.cpp",
+  "output": "CMakeFiles/micronations.dir/src/scene/scene_state.cpp.o"
+},
+{
+  "directory": "/Users/hogni.thor/home/micronations/build",
+  "command": "/usr/bin/clang++ -DAUTO_INITIALIZE_EASYLOGGINGPP=ON -DCARES_STATICLIB -I/Users/hogni.thor/home/micronations/src -isystem /Users/hogni.thor/home/micronations/deps/include -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk -mmacosx-version-min=14.7 -o CMakeFiles/micronations.dir/src/scene/scene_state_build.cpp.o -c /Users/hogni.thor/home/micronations/src/scene/scene_state_build.cpp",
+  "file": "/Users/hogni.thor/home/micronations/src/scene/scene_state_build.cpp",
+  "output": "CMakeFiles/micronations.dir/src/scene/scene_state_build.cpp.o"
+},
+{
+  "directory": "/Users/hogni.thor/home/micronations/build",
+  "command": "/usr/bin/clang++ -DAUTO_INITIALIZE_EASYLOGGINGPP=ON -DCARES_STATICLIB -I/Users/hogni.thor/home/micronations/src -isystem /Users/hogni.thor/home/micronations/deps/include -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk -mmacosx-version-min=14.7 -o CMakeFiles/micronations.dir/src/scene/sprite.cpp.o -c /Users/hogni.thor/home/micronations/src/scene/sprite.cpp",
+  "file": "/Users/hogni.thor/home/micronations/src/scene/sprite.cpp",
+  "output": "CMakeFiles/micronations.dir/src/scene/sprite.cpp.o"
+},
+{
+  "directory": "/Users/hogni.thor/home/micronations/build",
+  "command": "/usr/bin/clang++ -DAUTO_INITIALIZE_EASYLOGGINGPP=ON -DCARES_STATICLIB -I/Users/hogni.thor/home/micronations/src -isystem /Users/hogni.thor/home/micronations/deps/include -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk -mmacosx-version-min=14.7 -o CMakeFiles/micronations.dir/src/scene/tile.cpp.o -c /Users/hogni.thor/home/micronations/src/scene/tile.cpp",
+  "file": "/Users/hogni.thor/home/micronations/src/scene/tile.cpp",
+  "output": "CMakeFiles/micronations.dir/src/scene/tile.cpp.o"
+}
+]
